@@ -52,3 +52,16 @@
   img:hover{
     transform: translateY(-10pt);
   }
+  .bg-color{
+    background-color: rgb(26, 26, 59);
+  }
+  .modal-body{
+    height: 70vh;
+    padding: 0;
+  }
+  .video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
